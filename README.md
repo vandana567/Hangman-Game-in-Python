@@ -1,7 +1,7 @@
 # Hangman-Game-in-Python
 
 
-About
+**About
 
 Games can help you kill time when you’re bored. 
 But before smartphones, people played games the classic way – with paper and pencil. 
@@ -13,7 +13,7 @@ Make a program that plays Hangman with you – and good luck with the guessing!
 
 
 
-Learning outcomes
+**Learning outcomes
 
 Best project for Python Basics: 
 1) uses functions
@@ -23,7 +23,7 @@ Best project for Python Basics:
 
 
 
-Description
+**Description
 
 
 Let's have a brief overview of what you are going to build during this project. 
@@ -42,7 +42,7 @@ Let's have a brief overview of what you are going to build during this project.
   
   
   
-  Example
+  **Example
   
   
   H A N G M A N
